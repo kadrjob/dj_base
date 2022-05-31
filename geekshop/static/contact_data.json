@@ -1,0 +1,7 @@
+{
+ "data":[
+   {"city": "Москва", "fone": "+7-888-888-8888", "email": "info@geekshop.ru", "address": "В пределах МКАД"},
+   {"city": "Санкт-Петербург", "fone": "+7-888-888-8888", "email": "info@geekshop.ru", "address": "Мойка, 1"},
+   {"city": "Воронеж", "fone": "+7-888-888-8888", "email": "info@geekshop.ru", "address": "Ленина, 10"}
+ ]
+}
