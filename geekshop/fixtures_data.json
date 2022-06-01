@@ -1,0 +1,82 @@
+[
+  {
+    "model": "mainapp.Category",
+    "pk": 4,
+    "fields": {
+      "name": "фурнитура",
+      "description": "фурнитура"
+    }
+  },
+    {
+    "model": "mainapp.Category",
+    "pk": 5,
+    "fields": {
+      "name": "комплектующие",
+      "description": "комплектующие"
+    }
+  },
+  {
+    "model": "mainapp.Product",
+    "pk": 3,
+    "fields": {
+      "category": "4",
+      "name": "болт соединительный",
+      "image": "",
+      "short_desc": "болт соединительный",
+      "description": "болт соединительный",
+      "price": "100",
+      "quantity": "100"
+    }
+  },
+  {
+    "model": "mainapp.Product",
+    "pk": 4,
+    "fields": {
+      "category": "4",
+      "name": "шайба соединительная",
+      "image": "",
+      "short_desc": "шайба соединительная",
+      "description": "шайба соединительная",
+      "price": "200",
+      "quantity": "200"
+    }
+  },  {
+    "model": "mainapp.Product",
+    "pk": 5,
+    "fields": {
+      "category": "5",
+      "name": "подложка мягкая (пластик)",
+      "image": "",
+      "short_desc": "подложка мягкая (пластик)",
+      "description": "подложка мягкая (пластик)",
+      "price": "10",
+      "quantity": "10"
+    }
+  },
+  {
+    "model": "mainapp.Product",
+    "pk": 6,
+    "fields": {
+      "category": "5",
+      "name": "подложка мягкая (войлок)",
+      "image": "",
+      "short_desc": "подложка мягкая (войлок)",
+      "description": "подложка мягкая (войлок)",
+      "price": "15",
+      "quantity": "15"
+    }
+  },
+    {
+    "model": "mainapp.Product",
+    "pk": 7,
+    "fields": {
+      "category": "5",
+      "name": "шуруп мебельный черный",
+      "image": "",
+      "short_desc": "шуруп мебельный черный",
+      "description": "шуруп мебельный черный",
+      "price": "5",
+      "quantity": "150"
+    }
+  }
+]
